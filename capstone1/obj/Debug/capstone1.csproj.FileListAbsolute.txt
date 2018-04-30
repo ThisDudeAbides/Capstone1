@@ -1,0 +1,7 @@
+c:\users\mssar\source\repos\capstone1\capstone1\bin\Debug\capstone1.exe.config
+c:\users\mssar\source\repos\capstone1\capstone1\bin\Debug\capstone1.exe
+c:\users\mssar\source\repos\capstone1\capstone1\bin\Debug\capstone1.pdb
+c:\users\mssar\source\repos\capstone1\capstone1\obj\Debug\capstone1.csprojResolveAssemblyReference.cache
+c:\users\mssar\source\repos\capstone1\capstone1\obj\Debug\capstone1.csproj.CoreCompileInputs.cache
+c:\users\mssar\source\repos\capstone1\capstone1\obj\Debug\capstone1.exe
+c:\users\mssar\source\repos\capstone1\capstone1\obj\Debug\capstone1.pdb
