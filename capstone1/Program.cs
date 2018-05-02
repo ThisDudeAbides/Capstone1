@@ -25,7 +25,7 @@ namespace capstone1
                     {
                         Console.WriteLine($"{input}way");
                     }
-
+                    
                     else
                     {   // if word does not start with vowel then the word splits 
                         //
@@ -36,15 +36,17 @@ namespace capstone1
                     }
                     Console.WriteLine("would you like to continue translating? y/n");
                     string response = (Console.ReadLine());
-
-                    if (response.ToLower() != "n")
+                    if (response.ToLower() == "n")
                     {
-                        break;
+                       break;
                     }
+
                 }
-                Console.WriteLine("Thanks for playing, have a good day!");
+                
             }
-        }  
+            Console.WriteLine("Thanks for playing, have a good day!");
+        }
+        
     }
 }
 
